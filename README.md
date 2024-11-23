@@ -1,0 +1,2 @@
+This was a simple Project for Descrete Mathmatics Course at University
+Using C program, we are going to randomly generate a relational matrix (which represent relation) with dimension n where n is the number of distinct elements on a set. Then it is going to verify the properties of the relation; such as symmetric, anti-symmetric, transitive, and equivalence, etc. Also it will determine computational time in milliseconds. It will check whether the relation represents any function or not. 
